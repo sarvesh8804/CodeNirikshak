@@ -129,7 +129,8 @@ FinSecAI uses a **multi-agent orchestration** pattern:
 
 ## 🏗 System Architecture
 
-```mermaid
+![Uploading image (12).png…]()
+
 graph TD
     A[User / Client] --> B(FastAPI Orchestrator);
     B --> C(Repo Agent);
